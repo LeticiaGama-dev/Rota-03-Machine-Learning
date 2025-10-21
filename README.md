@@ -27,20 +27,26 @@ Objetivo: fornecer insights sobre retenção de talentos e ajudar a empresa a to
 
 * Os dados são fictícios, para demonstração.
 
+##  Dashboards do Projeto
 
-##  Visualizações / Dashboards
+As imagens dos dashboards estão na pasta [`dashboards_screenshots`](./dashboards_screenshots).
 
-### Página 1 / Visualização 1
+### Dash 01: Visão Geral
+- **Arquivo:** `dash 01-rota 03.jpg`  
+- **Descrição:** Resumo dos funcionários, taxa de rotatividade e principais indicadores-chave da empresa.
 
-* **Distribuição da variável resposta:** gráfico mostrando a proporção de funcionários que saíram vs ativos.
+### Dash 02: Perfil do Funcionário
+- **Arquivo:** `dash 02-rota 03.jpg`  
+- **Descrição:** Distribuição dos funcionários por departamento, sexo e estado civil.
 
-### Página 2 / Visualização 2
+### Dash 03: Distribuição de Dados
+- **Arquivo:** `dash 03-rota 03.jpg`  
+- **Descrição:** Distribuição das principais variáveis numéricas, como idade, salário mensal e anos de experiência.
 
-* **Análise exploratória:** Boxplots, histogramas e scatterplots de variáveis numéricas importantes.
+### Dash 04: Modelos de Machine Learning e Conclusões
+- **Arquivo:** `dash 04-rota 03.jpg`  
+- **Descrição:** Comparação de algoritmos treinados e insights estratégicos para retenção de talentos.
 
-### Página 3 / Visualização 3
-
-* **Importância das variáveis no modelo:** gráfico comparando importância de cada feature nos modelos Random Forest e XGBoost.
 
 ##  Códigos e Cálculos Relevantes
 
