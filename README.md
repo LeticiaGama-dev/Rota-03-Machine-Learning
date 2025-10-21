@@ -32,19 +32,19 @@ Objetivo: fornecer insights sobre retenção de talentos e ajudar a empresa a to
 As imagens dos dashboards estão na pasta [`dashboards_screenshots`](./dashboards_screenshots).
 
 ### Dash 01: Visão Geral
-- **Arquivo:** `dash 01-rota 03.jpg`  
+- **Arquivo:** [dash 01-rota 03.jpg](./dashboards_screenshots/dash%2001-rota%2003.jpg)  
 - **Descrição:** Resumo dos funcionários, taxa de rotatividade e principais indicadores-chave da empresa.
 
 ### Dash 02: Perfil do Funcionário
-- **Arquivo:** `dash 02-rota 03.jpg`  
+- **Arquivo:** [dash 02-rota 03.jpg](./dashboards_screenshots/dash%2002-rota%2003.jpg)  
 - **Descrição:** Distribuição dos funcionários por departamento, sexo e estado civil.
 
 ### Dash 03: Distribuição de Dados
-- **Arquivo:** `dash 03-rota 03.jpg`  
+- **Arquivo:** [dash 03-rota 03.jpg](./dashboards_screenshots/dash%2003-rota%2003.jpg)  
 - **Descrição:** Distribuição das principais variáveis numéricas, como idade, salário mensal e anos de experiência.
 
 ### Dash 04: Modelos de Machine Learning e Conclusões
-- **Arquivo:** `dash 04-rota 03.jpg`  
+- **Arquivo:** [dash 04-rota 03.jpg](./dashboards_screenshots/dash%2004-rota%2003.jpg)  
 - **Descrição:** Comparação de algoritmos treinados e insights estratégicos para retenção de talentos.
 
 
