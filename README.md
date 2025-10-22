@@ -16,11 +16,6 @@ Os objetivos secundários incluem:
 * Fornecer **insights estratégicos** e **recomendações** baseadas em dados para o departamento de RH.
 * Criar uma ferramenta que permita à empresa tomar **medidas preventivas** e eficazes para reter talentos.
 
-##  Introdução
-
-Projeto de Machine Learning para previsão de rotatividade de funcionários, incluindo análise exploratória, preparação de dados, treinamento de modelos supervisionados e apresentação de resultados.
-Objetivo: fornecer insights sobre retenção de talentos e ajudar a empresa a tomar decisões estratégicas para reduzir a rotatividade.
-
 ## Tecnologias Utilizadas
 
 * **Linguagem Principal:** Python
@@ -124,7 +119,7 @@ rf.fit(X_train, y_train)
 y_pred = rf.predict(X_test)
 ```
 
-##  Como Rodar o Projeto
+## Como Rodar o Projeto
 
 1. Abrir o Google Colab.
 2. Importar os arquivos CSV disponíveis na pasta `datasets/`.
@@ -138,12 +133,8 @@ y_pred = rf.predict(X_test)
 ### Observações
 
 * Os dados são fictícios, para demonstração.
-
-🔗 **Link do Repositório**
-[https://github.com/LeticiaGama-dev/rota-03-machine-learning](https://github.com/LeticiaGama-dev/rota-03-machine-learning)
-
 ---
-Meu Contato:
-
-[LinkedIn]  (www.linkedin.com/in/leticia-gama-code)
+## Autor
+**Leticia Gama de Souza**
+[LinkedIn](https://www.linkedin.com/in/leticia-gama-code) | [GitHub](https://github.com/LeticiaGama-dev)
 
